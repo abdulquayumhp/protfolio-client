@@ -1,0 +1,9 @@
+.navbarStyle {
+  background: linear-gradient(
+      rgba(235, 230, 230, 0.863),
+      rgba(235, 230, 230, 0.863)
+    ),
+    url(../Assarat/bg-image.jpg);
+  background-size: cover;
+  background-position: center;
+}

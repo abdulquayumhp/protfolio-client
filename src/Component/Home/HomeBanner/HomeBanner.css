@@ -1,0 +1,49 @@
+.design::after {
+	content: "";
+	background: #e9b806;
+	color: #ffffff;
+	width: 30px;
+	height: 30px;
+	margin-top: -30px;
+	border-radius: 50%;
+	margin-left: -14px;
+	display: block;
+}
+
+.designTwo::before {
+	content: "";
+	background: #e9b806;
+	color: #ffffff;
+	width: 30px;
+	height: 30px;
+	margin-top: -30px;
+	border-radius: 50%;
+	margin-left: -14px;
+	display: block;
+}
+.resumeButtonDesign::before {
+	content: "";
+	background: #e9b806;
+	width: 80px;
+	height: 2px;
+	margin-left: 215px;
+	margin-bottom: -15px;
+	border-radius: 50%;
+	display: block;
+}
+.experienceDesign::before {
+	content: "";
+	background: #e9b806;
+	width: 20px;
+	height: 20px;
+	margin-bottom: -12px;
+	border-radius: 50%;
+	display: block;
+}
+/* .imagePosition::before {
+	content: url("https://i.ibb.co/9px9vPk/5ad635cc9b5a95abba532849-rbm-logo.png");
+	width: 20px;
+	height: 20px;
+	background: url("https://i.ibb.co/9px9vPk/5ad635cc9b5a95abba532849-rbm-logo.png");
+	display: block;
+} */
